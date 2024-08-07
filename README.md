@@ -1,16 +1,16 @@
-## Hi there 👋
+## bem vindos 🖤
 
-<!--
-**Chicoboiadeiro1/Chicoboiadeiro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é chico boiadeiro
 
-Here are some ideas to get you started:
+- eu estou estudando na [alura](https://www.alura.com.br)
+- estou desenvolvendo na linguagem javaScript
+- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### você pode entrar em contato comigo 📫
+
+- 00001123099698sp@al.educacao.sp.gov.br
+- 
+- @_boiadeiro_racing
+
+- ![](https://media1.tenor.com/m/DEpGK02sAloAAAAd/caminhao-drift.gif)
+- 
